@@ -36,13 +36,6 @@ This project presents a voltage selection system designed using an **8051 microc
 ---
 
 
-## 🧠 What You'll Learn
 
-- How to use the LM317 as a programmable voltage source
-- How to interface push buttons, relays, and LCDs with the 8051 microcontroller
-- Basics of writing logic in 8051 assembly language
-- Practical implementation of voltage regulation in embedded systems
-
----
 
 
